@@ -1,0 +1,30 @@
+.cartContainer svg {
+  color: red;
+  cursor: pointer;
+}
+
+svg {
+  color: blue;
+}
+
+.table{
+  background-color: rgb(16, 231, 159);
+  border: 1px;
+  text-align: center;
+}
+
+.btnProducts{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 500px;
+}
+
+.total{
+  margin-top: 30px;
+  text-align: end;
+}
+
+.infoCart{
+  text-align: center;
+  color: red;
+}

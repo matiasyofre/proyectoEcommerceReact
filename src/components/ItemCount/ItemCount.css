@@ -1,0 +1,17 @@
+.itemCountContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.itemCountContainer div {
+  display: flex;
+  margin-top: 20px;
+}
+
+.itemCount{
+  font-size: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+}

@@ -1,0 +1,12 @@
+.alertOrder{
+    justify-content: flex-start;
+}
+
+.formOrder{
+    color:blue;
+}
+
+.formOrderTitle{
+    color:blue;
+    text-decoration: underline;
+}

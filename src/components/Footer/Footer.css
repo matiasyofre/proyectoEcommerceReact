@@ -1,0 +1,31 @@
+.footerContainer{
+    background: linear-gradient(0deg, rgba(45,46,253,1) 0%,rgba(34,195,71,1) 100%);
+    padding: 15px 0 30px;
+    margin-top: 15px;
+}
+
+.footer{
+    display: flex;
+    padding: 0.5rem 1rem 0;
+    color: white;
+}
+
+.icons{
+    display: flex;
+    justify-content: end;
+    margin-right: 30px;
+}
+
+.text{
+    color: white;
+    padding: 0.5rem 0.5rem 0;
+    margin-left: 30px;
+    font-size: 1.5rem;
+}
+svg {
+    fill: white;
+    margin-right: 2rem;
+    font-size: 2.5rem;
+    font-weight: 500;
+  }
+
