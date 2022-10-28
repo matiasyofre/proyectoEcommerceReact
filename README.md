@@ -13,6 +13,6 @@ Estructura de directorios
 /utils
 
 
-Comandos para ejecutar el proyecto:
-1- npm install
-2- npm start
+Comandos para ejecutar el proyecto
+npm install
+npm start
